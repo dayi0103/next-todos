@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="border-b">
       <div className="h-[38px] flex justify-between items-center mx-10">
-        <div>Todos dayi</div>
+        <div>Todos </div>
         <div className="flex">
           <LoginButton title="sign in" color="red" isBorder={true} />
           <LoginButton title="sign up" />
